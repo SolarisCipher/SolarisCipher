@@ -1,4 +1,4 @@
-# SolariaCipher 👋
+# SolarisCipher 👋
 
 Cybersecurity student building practical, job-ready skills through labs, writeups, and small automation projects.  
 Google Cybersecurity Professional Certificate ✅ | CompTIA Security+ (SY0-701) in progress | TryHackMe labs
