@@ -14,7 +14,7 @@ Google Cybersecurity Professional Certificate ✅ | CompTIA Security+ (SY0-701) 
 ---
 
 ## Credentials
-- Google Cybersecurity Professional Certificate (Coursera): https://coursera.org/verify/SUJNNN6ZKT1D
+- Google Cybersecurity Professional Certificate (Coursera): (https://coursera.org/verify/professional-cert/S9UZEW04B9IJ)
 - More: https://github.com/SolariaCipher/credentials
 
 
