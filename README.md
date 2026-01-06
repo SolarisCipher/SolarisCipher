@@ -13,6 +13,11 @@ Google Cybersecurity Professional Certificate ✅ | CompTIA Security+ (SY0-701) 
 
 ---
 
+## Credentials
+- Google Cybersecurity Professional Certificate (Coursera): https://coursera.org/verify/SUJNNN6ZKT1D
+- More: https://github.com/SolariaCipher/credentials
+
+
 ## Featured Projects
 - 🔹 **Blue Team Labs** → https://github.com/SolariaCipher/blue-team-labs  
   Log analysis, detection notes, incident-style mini reports.
