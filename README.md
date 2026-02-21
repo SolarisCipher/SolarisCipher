@@ -23,6 +23,7 @@ In cybersecurity, I’m focused on **Blue Team / SOC fundamentals**: incident do
 
 ## Credentials
 - Google Cybersecurity Professional Certificate (Coursera): https://coursera.org/verify/professional-cert/S9UZEW04B9IJ
+- TryHackMe Cyber Security 101: https://tryhackme.com/certificate/THM-IWJ4YB6I5W (45+ hours of hands-on fundamentals)
 - More: https://github.com/SolarisCipher/credentials
 
 ---
