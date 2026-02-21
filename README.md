@@ -23,21 +23,21 @@ In cybersecurity, I’m focused on **Blue Team / SOC fundamentals**: incident do
 
 ## Credentials
 - Google Cybersecurity Professional Certificate (Coursera): https://coursera.org/verify/professional-cert/S9UZEW04B9IJ
-- More: https://github.com/SolariaCipher/credentials
+- More: https://github.com/SolarisCipher/credentials
 
 ---
 
 ## Featured Projects
-- 🔹 **Blue Team Labs** → https://github.com/SolariaCipher/blue-team-labs  
+- 🔹 **Blue Team Labs** → https://github.com/SolarisCipher/blue-team-labs  
   Log analysis, detection notes, and incident-style mini-reports.
 
-- 🔹 **TryHackMe Writeups (Sanitized)** → https://github.com/SolariaCipher/tryhackme-writeups  
+- 🔹 **TryHackMe Writeups (Sanitized)** → https://github.com/SolarisCipher/tryhackme-writeups  
   Method-focused writeups (no flags, no secrets, room-compliant).
 
-- 🔹 **Scripts & Automation** → https://github.com/SolariaCipher/scripts-and-automation  
+- 🔹 **Scripts & Automation** → https://github.com/SolarisCipher/scripts-and-automation  
   Small Python/Bash utilities (parsers, helpers, learning projects).
 
-- 🔹 **Security+ Notes (SY0-701)** → https://github.com/SolariaCipher/securityplus-notes  
+- 🔹 **Security+ Notes (SY0-701)** → https://github.com/SolarisCipher/securityplus-notes  
   Structured notes + cheat sheets written in my own words.
 
 ---
@@ -51,7 +51,7 @@ In cybersecurity, I’m focused on **Blue Team / SOC fundamentals**: incident do
 ---
 
 ## Profiles
-- TryHackMe: https://tryhackme.com/p/SolariaCipher
+- TryHackMe: https://tryhackme.com/p/SolarisCipher
 - LinkedIn: https://www.linkedin.com/in/valerio-lolli-ab7137149
 
 ---
