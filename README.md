@@ -1,4 +1,4 @@
-# SolarisCipher 👋
+# Solipher 👋
 
 Cybersecurity student building practical, role-relevant skills through labs, writeups, and small automation projects.  
 Google Cybersecurity Professional Certificate ✅ | CompTIA Security+ (SY0-701) in progress | TryHackMe labs
@@ -6,7 +6,7 @@ Google Cybersecurity Professional Certificate ✅ | CompTIA Security+ (SY0-701) 
 ---
 
 ## About me
-I’m Valerio (SolarisCipher), transitioning into cybersecurity with a protection-first mindset.  
+I’m Valerio (Solipher), transitioning into cybersecurity with a protection-first mindset.  
 Before this, I worked in roles where discipline, pressure management, and ethics matter: military service and law enforcement, plus fast-paced environments like kitchens and customer-facing sales.
 
 In cybersecurity, I’m focused on **Blue Team / SOC fundamentals**: incident documentation, network traffic analysis, and practical automation with Python/Bash. I care a lot about clear reporting and repeatable processes, not just theory.
@@ -24,21 +24,21 @@ In cybersecurity, I’m focused on **Blue Team / SOC fundamentals**: incident do
 ## Credentials
 - Google Cybersecurity Professional Certificate (Coursera): https://coursera.org/verify/professional-cert/S9UZEW04B9IJ
 - TryHackMe Cyber Security 101: https://tryhackme.com/certificate/THM-IWJ4YB6I5W (45+ hours of hands-on fundamentals)
-- More: https://github.com/SolarisCipher/credentials
+- More: https://github.com/Solipher/credentials
 
 ---
 
 ## Featured Projects
-- 🔹 **Blue Team Labs** → https://github.com/SolarisCipher/blue-team-labs  
+- 🔹 **Blue Team Labs** → https://github.com/Solipher/blue-team-labs  
   Log analysis, detection notes, and incident-style mini-reports.
 
-- 🔹 **TryHackMe Writeups (Sanitized)** → https://github.com/SolarisCipher/tryhackme-writeups  
+- 🔹 **TryHackMe Writeups (Sanitized)** → https://github.com/Solipher/tryhackme-writeups  
   Method-focused writeups (no flags, no secrets, room-compliant).
 
-- 🔹 **Scripts & Automation** → https://github.com/SolarisCipher/scripts-and-automation  
+- 🔹 **Scripts & Automation** → https://github.com/Solipher/scripts-and-automation  
   Small Python/Bash utilities (parsers, helpers, learning projects).
 
-- 🔹 **Security+ Notes (SY0-701)** → https://github.com/SolarisCipher/securityplus-notes  
+- 🔹 **Security+ Notes (SY0-701)** → https://github.com/Solipher/securityplus-notes  
   Structured notes + cheat sheets written in my own words.
 
 ---
@@ -52,7 +52,7 @@ In cybersecurity, I’m focused on **Blue Team / SOC fundamentals**: incident do
 ---
 
 ## Profiles
-- TryHackMe: https://tryhackme.com/p/SolarisCipher
+- TryHackMe: https://tryhackme.com/p/Solipher
 - LinkedIn: https://www.linkedin.com/in/valerio-lolli-ab7137149
 
 ---
